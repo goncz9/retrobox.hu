@@ -1,0 +1,15 @@
+# Site settings
+title: Retrobox
+email: robert@goncz.org
+author: Robert Göncz
+description:
+url: https://retrobox.hu
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css
+
+exclude:
+  - README.md
+  - CNAME
